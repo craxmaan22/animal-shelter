@@ -1,9 +1,16 @@
 
 
 
-.img{
+body {
+    background-color: rgba(240, 250, 255, 0.73)
+    
+}
+p {
+    color: azure;
+}
+.logo {
     width: 100px;
-    float: right;
+    height: 50px;
 
 }
 input {
@@ -14,5 +21,3 @@ input {
     border: 100px;
     margin-right: 200px;
 }    
-
-
