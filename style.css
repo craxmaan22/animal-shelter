@@ -1,14 +1,18 @@
 
 
 
-
-
-
-
-
-body {
-    background-color: blueviolet;
+.img{
+    width: 100px;
+    float: right;
 
 }
+input {
+    float: right;
+
+    height: 100px;
+    width: 200px;
+    border: 100px;
+    margin-right: 200px;
+}    
 
 
